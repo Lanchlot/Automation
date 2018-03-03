@@ -1,0 +1,1148 @@
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 12, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "F:/PyCharmProjects/Automation/Chap13_WordsFrequency.py", line 17, in <module>
+    text = page.extractText()
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2595, in extractText
+    content = ContentStream(content, self.pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2674, in __init__
+    self.__parseContentStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\pdf.py", line 2706, in __parseContentStream
+    operands.append(readObject(stream, None))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 71, in readObject
+    return ArrayObject.readFromStream(stream, pdf)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 166, in readFromStream
+    arr.append(readObject(stream, pdf))
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 77, in readObject
+    return readStringFromStream(stream)
+  File "F:\PyCharmProjects\Automation\venv\lib\site-packages\PyPDF2\generic.py", line 333, in readStringFromStream
+    raise PdfStreamError("Stream has ended unexpectedly")
+PyPDF2.utils.PdfStreamError: Stream has ended unexpectedly

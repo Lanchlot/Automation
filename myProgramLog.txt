@@ -1,0 +1,15 @@
+2018-02-03 18:05:20,130 - DEBUG - Start of the program
+2018-02-03 18:05:20,130 - INFO - Start of the program
+2018-02-03 18:05:20,130 - WARNING - Start of the program
+2018-02-03 18:05:20,131 - ERROR - Start of the program
+2018-02-03 18:05:20,131 - CRITICAL - Start of the program
+2018-02-03 18:06:04,488 - DEBUG - Start of the program
+2018-02-03 18:06:04,488 - INFO - Start of the program
+2018-02-03 18:06:04,488 - WARNING - Start of the program
+2018-02-03 18:06:04,489 - ERROR - Start of the program
+2018-02-03 18:06:04,489 - CRITICAL - Start of the program
+2018-02-03 19:15:58,965 - DEBUG - Start of the program
+2018-02-03 19:15:58,965 - INFO - Start of the program
+2018-02-03 19:15:58,966 - WARNING - Start of the program
+2018-02-03 19:15:58,966 - ERROR - Start of the program
+2018-02-03 19:15:58,966 - CRITICAL - Start of the program

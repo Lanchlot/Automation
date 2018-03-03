@@ -1,0 +1,1896 @@
+﻿TECHNOLOGY QUARTERLY
+  January 7th 
+2017  
+   LANGUAGE
+Finding a voice
+58Scienceandtechnology
+The EconomistJanuary7th2017
+Palaeontology
+Crackinga puzzle
+DID dinosaureggshatch quickly, like
+those ofbirds(which are dinosaurs’
+directdesce
+ndants), orslowl
+y, like those
+ofmodern reptiles(whic
+h are din
+osaurs’
+collateral cousins
+)? Thatisthe question
+addressed byGregoryErickson ofFlorida
+State Universityand hiscolleagues in a
+
+paperjustpublished 
+in the Proceedingsof
+the National AcademyofSciences
+. Itis
+pertinentbecause ittoucheson the wider
+
+matterofjusthow“
+reptilian” the dino-
+saursactuallywere. Researchersalready
+
+knowthatmanywere warm-blooded,
+
+and thatsome had insulation in the form
+
+offeathers, even though theycould not
+
+ﬂy. Fast-developingembryoswould drive
+
+afurtherwedge between them and their
+
+trulyreptilian kin.
+To investigate, DrErickson looked at
+two setsoffossili
+sed dinosaureggs. The
+ﬁrst, from a Mongolian nest(pictured),
+waslaid by
+Protoceratopsandrewsi
+, asheep-sized creature thatl
+ived 70m years
+ago. The second, from Ca
+nada, waslaid
+byHypacrosaurusstebingeri
+—a species
+contemporarywith 
+P. andrewsi
+thatgrew
+to somethingbetween the weightsof a
+
+rhinocerosand an elephant. 
+In each case the researchersused an
+X-rayscannerto examine the teeth of
+embryosfound insi
+de the eggs. In cross-
+section, dinosaurtee
+th displaygrowth
+rings, called von Ebnerlines
+, that are
+reminiscentofthe annual growth rings
+
+ofa tree trunk. In all livingspecies which
+
+have von Ebnerlinesthose linesrepre-
+
+senta day’sgrowth. Ittherefore seems
+
+reasonable to believe thatthiswas true
+
+fordinosau
+rsaswell.
+Assumingalso, asDrErickson and his
+colleaguesdi
+d, thatdinosau
+rs’ teeth
+began to growabouthalfwaythrough
+
+embryonicdevelopment(which iswhen
+
+acrocodile’sembryonicteeth ﬁrstap-
+
+pear), theyconclude thatthe 
+P. andrewsi
+eggstheylooked atwere about83 days
+
+old, makingthatthe lowerbound of their
+
+incubation period. Thiscompareswith
+
+the 42 daysan ostrich eggtakesto in-
+
+cubate and 
+the 200-plusdaysrequired by
+aKomodo dragon egg—both ofthese
+
+animalsbeing, when adult, ofcompara-
+
+ble size to 
+P. andrewsi
+. The biggereggsof
+H. stebingeri
+need-ed, accordingto DrErickson’scalcula-
+
+tions, a minimum of171daysincubation.
+
+Sadly, no e
+gg-layinganimal 
+ofitssize is
+around todayforcomparison. Butprojec-
+
+tionsbased on 
+size and incubation-
+period data from modern birdsand
+
+reptiles
+suggest171days
+issubstantially
+more than would be expected ifthe eggs
+
+ofH. stebingeri
+were developingin a
+birdlike way.
+The truth, then, isthatin thisas in
+othermatte
+rs, din
+osaursar
+e lessr
+eptilianthan wasonce thought, butnotasavian
+
+assome revis
+ionistsw
+ould like to be-
+lieve. Amessyanswer, perhaps. But, in
+
+nature, thingsare notalwaysclear-cut.
+Howreptilian were
+ dinosaureggs?
+Adinosaur’s nest
+IN2015, a bitovertwo yearsafterHurri-
+cane Sandyhithisci
+ty, Bill 
+de Blasio,NewYork’smayor, announced the cre-
+ation ofa $3 billion restoration fund. Part
+
+ofthe moneyisintended to payforsea
+
+wallsthatwill help protectthe place from
+
+future storms. 
+Buildingsuch wallsmaybe an even
+more timelymove 
+than Mrde Blasio
+thoughtwhen he made hisannounce-
+
+ment. Asa paper
+justpublis
+hed in Nature
+explains, forthe pasttwo decadesa natural
+
+form ofprotection mayhave been shield-
+
+ingAmerica’sAtlantic
+coast, stoppi
+ng bigstormsarriving. Such protection, though, is
+
+unlikelyto 
+lastforever. Mrde Blasio isthus
+takingthe prudentcourse ofmendingthe
+
+roofwhile the sun isshining.
+The studyin question wasconducted
+byJamesK
+ossin ofAmerica’sNational
+Oceanicand 
+Atmosp
+hericAdmin
+istration,
+usingwind and ocean-temperature data
+
+collected since 1947. In it, DrKossin shows
+
+thatthe intensityo
+fhurricaneswhich
+make landfall in the United Statestends to
+
+be lowestwhen the Atlantic’sstorm-gener-
+
+ation system isatitsmostactive. 
+In DrKossin’sview, the cause ofthis ap-
+parentparadoxisthat,
+ when conditions in
+the deep Atlantic
+conspire to 
+produce the
+mosthurricanes, pr
+ecisely
+the oppositeconditionsobtain alongthe American
+
+coast. Thatcreatesa berzone which low-
+
+ersthe i
+ntensityofinc
+omingstorm
+sbefore
+theymake landfall. T
+he agentre
+sponsibleforthisloweringo
+fintensityi
+svertical
+wind shear—in otherwords, wind speeds
+
+and directionsthatvarygreatlywith alti-
+
+tude. Vertical wind shearremovesenergy
+
+from hurricanesbypullingheatand mois-
+
+ture outofa storm’scentre. When the At-
+
+lanticisin itshurric
+ane-producin
+gphase,
+with lowwind shearand high surface tem-
+
+peraturesin itscentral region, the part
+
+alongthe American coastbehavesin the
+
+opposite manner, with high
+ wind shear
+and lowsurface temperaturesthatsap
+
+storms’ energy.
+The obverse isalso true. When wind
+shearand sea-surface temperatureskeep
+
+the Atlantic’shurricane-generatingregion
+
+quiet, astheydid between 1970 and 1992,
+
+those stormswhich do appearare two to
+
+three timesmore likelyto intensifyrapidly
+
+(deﬁned asgaining15 knotsofwind speed
+
+in sixhours) when theyare nearthe coast
+
+than isthe case duringactive periods. 
+Noteveryone agr
+eeswith DrKossin’s
+proposed mechanism. JamesElsner, a ge-
+ographeratFlorida State University, sug-
+
+geststhatthe correlationsbetween storm
+
+generation and storm strength atlandfall
+
+which DrKossin observescould be ex-
+
+plained anotherway. T
+he biggeststorms
+tend to startoutfarfrom land rather than
+
+nearit, and duringperiodsofhigh activity
+
+hurricanesare generated fartheroutin the
+
+Atlanticthan happensduringlulls. These
+
+distantstormsthushave more time to veer
+
+north—pushed thatwayby
+the interaction
+between Earth’srotation and theirown, a
+
+phenomenon called the Coriolisect—
+
+and therefore avoid 
+landfall a
+ltogether.
+Whateveritsphys
+ical e
+xplanation,though, the correlation lookssecure. And,
+
+with the currentperiod ofactive hurricane
+
+formation now24 yearsold, a lull, with ac-
+
+companyingsuperstorms, maynotbe long
+
+in coming. Time, perhaps, forothermayors
+
+alongAmerica’sAtlanticcoastto follow Mr
+
+de Blasio’sexample.
+7Atmospheric physics
+The storm before
+the calm
+Something is damping down cyclones
+before theyreach the American coast
+Statistics on 42 economies, plus a
+closer look at GDPforecasts
+Economicdata
+Economic data% change on year ago Budget Interest
+ Industrial 
+Current-account balance balance rates, %
+ Gross domestic product 
+production 
+Consumer prices Unemployment 
+latest 12 % of GDP % of GDP 10-year gov't 
+Currency units, per $
+ latest qtr* 2016
+† latest latest 2016
+† rate, % 
+months, $bn 2016
+† 2016
+† bonds, latest Jan 4th year ago
+United States 
++1.7 
+Q3 +3.5 +1.6 -0.6 
+Nov +1.7 
+Nov +1.3 4.6 
+Nov -476.5 
+Q3 -2.6 -3.2 2.47 - -
+China +6.7 Q3 +7.4 +6.7 +6.2 
+Nov +2.3 Nov +2.0 4.0 Q3§ +264.6 
+Q3 +2.5 -3.8 2.93§§ 6.95 6.52Japan +1.1 
+Q3 +1.3 +0.7 +4.6 
+Nov +0.5 Nov -0.2 3.1 
+Nov +184.2 
+Oct +3.7 -5.6 0.04 117 119
+Britain 
++2.2 Q3 +2.3 +2.0 -1.2 
+Oct +1.2 
+Nov +0.6 4.8 Sep†† -138.1 
+Q3 -5.7 -3.7 1.27 0.81 0.68
+Canada +1.3 
+Q3 +3.5 +1.2 +1.6 
+Oct +1.2 
+Nov +1.5 6.8 
+Nov -53.6 Q3 -3.5 -2.5 1.71 1.33 1.39
+Euro area 
++1.7 
+Q3 +1.4 +1.6 +0.6 
+Oct +1.1 
+Dec +0.2 9.8 Oct +380.4 Oct +3.2 -1.8 0.27 0.95 0.93
+Austria 
++1.2 
+Q3 +2.4 +1.5 +0.2 
+Oct +1.3 
+Nov +1.1 5.9 
+Oct +8.0 Q3 +2.1 -1.4 0.50 0.95 0.93
+Belgium +1.3 
+Q3 +0.7 +1.2 +2.8 
+Oct +2.0 Dec +1.9 7.9 
+Oct +3.4 Sep +0.7 -2.8 0.47 0.95 0.93
+France 
++1.0 
+Q3 +1.0 +1.2 -1.8 
+Oct +0.6 Dec +0.3 9.7 Oct -40.0 Oct‡ -1.1 -3.3 0.78 0.95 0.93
+Germany 
++1.7 
+Q3 +0.8 +1.8 +1.2 
+Oct +1.7 
+Dec +0.4 6.0 Dec +296.2 Oct +8.8 +1.0 0.27 0.95 0.93
+Greece 
++1.6 
+Q3 +3.1 +0.4 +6.8 
+Oct -0.9 Nov nil 23.1 
+Sep -1.0 
+Oct -0.2 -5.6 6.72 0.95 0.93
+Italy 
++1.0 
+Q3 +1.0 +0.8 +1.3 
+Oct +0.5 Dec -0.1 11.6 
+Oct +49.5 Oct +2.4 -2.6 1.88 0.95 0.93
+Netherlands 
++2.4 Q3 +3.1 +2.0 +0.6 
+Oct +0.6 Nov +0.2 6.6 Nov +57.1 
+Q3 +8.5 -1.1 0.43 0.95 0.93
+Spain +3.2 Q3 +2.9 +3.2 -2.1 
+Oct +1.6 
+Dec -0.4 19.2 
+Oct +23.0 Oct +1.6 -4.6 1.43 0.95 0.93
+Czech Republic 
++1.6 
+Q3 +0.9 +2.4 -1.7 
+Oct +1.5 
+Nov +0.6 4.9 Nov§ +3.7 Q3 +1.5 nil 0.50 25.8 25.0
+Denmark +1.1 
+Q3 +1.5 +0.9 -0.3 
+Oct +0.4 Nov +0.3 4.2 Oct +23.2 Oct +5.9 -1.0 0.40 7.10 6.91
+Norway 
+-0.9 Q3 -1.9 +0.6 nil 
+Oct +3.5 Nov +3.5 4.8 Oct‡‡ +18.0 
+Q3 +4.4 +3.5 1.67 8.60 8.91
+Poland 
++2.0 Q3 +0.8 +2.6 +3.3 
+Nov +0.8 Dec -0.7 8.2 Nov§ -2.4 Oct -0.5 -2.7 3.71 4.17 3.98
+Russia 
+-0.4 Q3 na -0.5 +2.6 
+Nov +5.4 Dec +7.0 5.4 
+Nov§ +29.0 Q3 +2.4 -3.7 8.45 60.6 73.0
+Sweden  
++2.8 Q3 +2.0 +3.1 -0.5 
+Oct +1.4 
+Nov +0.9 6.2 Nov§ +22.2 Q3 +5.0 -0.3 0.60 9.11 8.50
+Switzerland 
++1.3 
+Q3 +0.2 +1.4 +0.4 
+Q3 -0.3 Nov -0.4 3.3 Nov +68.2 Q3 +9.4 +0.2 -0.15 1.02 1.01
+Turkey 
+-1.8 
+Q3 na +2.9 +0.2 
+Oct +8.5 Dec +7.8 11.3 
+Sep§ -33.8 Oct -4.8 -1.8 11.32 3.57 2.97
+Australia 
++1.8 
+Q3 -1.9 +2.9 -0.2 
+Q3 +1.3 
+Q3 +1.3 5.7 
+Nov -47.9 
+Q3 -3.5 -2.1 2.79 1.37 1.40
+Hong Kong +1.9 
+Q3 +2.5 +1.6 -0.1 
+Q3 +1.3 
+Nov +2.8 3.3 Nov‡‡ +13.3 
+Q3 +2.6 +0.6 1.89 7.76 7.75
+India +7.3 
+Q3 +8.3 +7.2 -1.9 
+Oct +3.6 Nov +4.9 5.0 2015 
+-11.1 
+Q3 -0.9 -3.8 6.37 68.1 66.6
+Indonesia +5.0 Q3 na +5.0 -2.7 
+Oct +3.0 Dec +3.5 5.6 Q3§ -19.2 
+Q3 -2.1 -2.6 7.85 13,440 13,918
+Malaysia 
++4.3 Q3 na +4.3 +4.2 
+Oct +1.8 
+Nov +1.9 3.5 
+Oct§ +5.6 Q3 +1.8 -3.4 4.26 4.50 4.35
+Pakistan 
++5.7 2016** 
+na +5.7 +2.3 
+Oct +3.7 Dec +3.8 5.9 2015 
+-4.1 
+Q3 -0.9 -4.6 8.03
+††† 105 105
+Philippines +7.1 
+Q3 +4.9 +6.9 +8.3 
+Oct +2.6 Dec +1.8 4.7 
+Q4§ +3.1 
+Sep +0.9 -1.0 5.08 49.7 47.1
+Singapore 
++1.1 
+Q3 +9.1 +1.3 +11.9 
+Nov nil Nov -0.6 2.1 
+Q3 +63.0 Q3 +21.5 +0.7 2.56 1.44 1.43
+South Korea 
++2.6 Q3 +2.5 +2.7 +4.8 
+Nov +1.3 
+Dec +0.9 3.1 
+Nov§ +99.0 Nov +7.2 -1.3 2.10 1,206 1,188
+Taiwan 
++2.0 Q3 +3.9 +1.0 +8.8 
+Nov +1.7 
+Dec +1.3 3.8 
+Nov +74.7 
+Q3 +14.4 -0.5 1.13 32.2 33.0
+Thailand +3.2 Q3 +2.2 +3.2 +3.8 
+Nov +1.1 
+Dec +0.2 1.0 
+Nov§ +47.9 
+Q3 +11.8 -2.3 2.68 35.8 36.2
+Argentina 
+-3.8 Q3 -0.9 -2.0 -2.5 
+Oct — *** — 8.5 Q3§ -15.7 
+Q3 -2.5 -5.3 na 16.1 13.1
+Brazil -2.9 Q3 -3.3 -3.4 -7.3 
+Oct +7.0 
+Nov +8.3 11.9 
+Nov§ -20.3 Nov -1.1 -6.3 11.31 3.22 4.04
+Chile +1.6 
+Q3 +2.5 +1.8 -1.4 
+Nov +2.9 Nov +3.7 6.2 Nov§‡‡ -4.8 Q3 -1.9 -2.7 4.26 672 717
+Colombia +1.2 
+Q3 +1.3 +1.8 +0.4 
+Oct +6.0 Nov +7.5 7.5 
+Nov§ -13.7 
+Q3 -5.1 -3.7 7.05 2,963 3,212
+Mexico 
++2.0 Q3 +4.0 +2.1 -1.4 
+Oct +3.3 Nov +2.8 3.6 Nov -30.6 Q3 -2.8 -3.0 7.65 21.4 17.4
+Venezuela 
+-8.8 Q4~ -6.2 -13.7 na 
+ na  +424 7.3 
+Apr§ -17.8 
+Q3~ -2.8 -24.3 10.43 10.0 6.31
+Egypt +4.5 Q2 na +4.3 -4.9 
+Oct +19.4 
+Nov +13.1 12.6 
+Q3§ -20.8 Q3 -7.0 -12.4 na 18.2 7.83
+Israel +5.1 
+Q3 +3.4 +3.3 -0.8 
+Oct -0.3 Nov -0.5 4.5 Nov +13.3 
+Q3 +2.8 -2.4 2.06 3.85 3.93
+Saudi Arabia +1.4 
+2016 
+na +1.1 na 
+ +2.3 Nov +3.8 5.6 2015 
+-46.8 Q3 -5.6 -11.7 na 3.75 3.75
+South Africa 
++0.7 Q3 +0.2 +0.4 -1.3 
+Oct +6.6 Nov +6.3 27.1 
+Q3§ -12.3 
+Q3 -4.0 -3.4 8.93 13.6 15.6
+Source: Haver Analytics.  *% change on pr
+evious quarter, annual rate. 
+†The Economist poll or Economist Intelligence Unit estimate/forecast. 
+§Not seasonally adjusted. 
+‡New series. ~2014 **Year ending June. 
+††Latest 
+3 months. 
+‡‡3-month moving average. 
+§§5-year yield. ***Official number not yet proved to be reliable; The State Street PriceStats Inflation Index, Nov 35.38%; year a
+go 25.30% †††Dollar-denominated bonds. 64The EconomistJanuary7th2017
+Economic and ﬁnancial indicators
+The EconomistJanuary7th2017 
+Economicandﬁnancialindicators
+65Indicators
+for more countries and additional
+series, go to: 
+Economist.com/indicators
+Othermarkets
+Othe
+r markets
+ % change on
+ Dec 31st 2015
+ Index 
+one in local in $
+ Jan 4th 
+week currency terms
+United States (S&P 500) 
+2,270.8 +0.9 +11.1 +11.1
+United States (NAScomp) 
+5,477.0 +0.7 +9.4 +9.4
+China (SSEB, $ te
+rms) 344.8 +1.1 -13.5 -19.1
+Japan (Top
+ix) 1,554.5 +1.2 +0.5 +3.1
+Europe (FTSEu
+rofirst 300) 1,443.8 +1.0 +0.4 -3.1
+World, dev'd (MSCI) 1,774.0 +1.3 +6.7 +6.7
+Emerging markets (MSCI) 
+871.5 +2.4 +9.7 +9.7
+World, all (MSCI) 427.2 +1.4 +7.0 +7.0
+World bonds (Citigroup) 877.6 +0.2 +0.9 +0.9
+EMBI+ (JPMorgan) 
+776.0 +0.7 +10.2 +10.2
+Hedge funds (HFRX) 
+1,203.2
+§ -0.1 +2.5 +2.5
+Volat
+ility, US (VIX) 
+11.9 +13.0 +18.2 (levels)
+CDSs, Eur (iTRAXX)† 67.9 -5.5 -12.0 -15.1
+CDSs, N Am (CDX)
+† 63.4 -6.6 -28.2 -28.2
+Carbon trading (EU ETS) € 
+5.7 -10.0 -31.6 -34.1
+Sources: Markit; Thomson Reuters.  *Total return index. 
+†Credit-default-swap spreads, basis points. 
+§Dec 29th.
+The Economist
+commodity-price index
+The Economist commodity-price index
+2005=100
+ % change on
+ Dec 20th
+ Dec 27th
+ Jan 3rd one one
+ 2016 2016 2017*
+ month year
+Dollar index
+All items 142.0 140.8 141.9 -1.7 +13.8
+
+Food 154.9 152.6 154.8 -1.2 +6.4
+
+Industrials     
+
+ All 128.6 128.5 128.5 -2.3 +24.8
+
+ Nfa
+† 136.5 136.8 138.1 +2.4 +27.9
+ Metals 125.2 124.9 124.4 -4.3 +23.4
+
+Ste
+rling index
+All items 209.0 208.9 210.8 +2.1 +36.2
+
+Euro index
+All items 170.1 167.4 169.9 +1.6 +17.5
+
+Gold
+$ per oz 1,131.6 1,133.5 1,156.1 -1.3 +7.3
+
+West Texas Inte
+rmediate
+$ per barrel 51.9 52.0 52.3 +2.7 +45.9
+Sources: Bloomberg; CME Group; Cotlook; Darmenn & Curl; FT; ICCO;
+ICO; ISO; Live Rice Index; LME; NZ Wool Services; Thompson Lloyd & 
+
+Ewart; Thomson Reuters; Urner Barry; WSJ.  *Provisional  
+†Non-food agriculturals.
+Markets
+Markets
+ % change on
+ Dec 31st 2015
+ Index 
+one in local in $
+ Jan 4th 
+week currency terms
+United States (DJIA) 
+19,942.2 +0.5 +14.4 +14.4
+China (SSEA) 3,307.5 +1.8 -10.7 -16.6
+Japan (Nikke
+i 225) 19,594.2 +1.0 +2.9 +5.6
+Britain (FTSE 100) 
+7,189.7 +1.2 +15.2 -3.9
+Canada (S&P TSX) 
+15,516.8 +1.0 +19.3 +24.6
+Euro area (FTSE Eu
+ro 100) 
+1,121.9 +1.1 +2.5 -1.1
+Euro area (EURO STOXX 50) 
+3,317.5 +1.2 +1.5 -2.1
+Aust
+ria (ATX) 
+2,682.6 +1.7 +11.9 +7.9
+Belgium (Bel 20) 3,665.7 +1.6 -0.9 -4.5
+France (CAC 40) 
+4,899.4 +1.1 +5.7 +1.9
+Germany (DAX)* 
+11,584.3 +1.0 +7.8 +4.0
+Greece (Athex Comp) 
+657.5 +3.4 +4.1 +0.4
+Italy (FTSE/MIB) 
+19,626.6 +2.0 -8.4 -11.6
+Netherlands (AEX) 487.6 +0.7 +10.4 +6.4
+Spain (Madrid SE) 956.1 +1.5 -0.9 -4.5
+Czech Republ
+ic (PX) 934.2 +1.2 -2.3 -5.8
+Denmark (OMXCB) 
+805.4 +1.0 -11.2 -14.0
+Hunga
+ry (BUX) 32,649.0 +1.9 +36.5 +35.0
+Norway (OSEAX) 
+772.6 +0.8 +19.1 +22.5
+Poland (WIG) 
+52,753.8 +2.8 +13.5 +7.5
+Russ
+ia (RTS, $ te
+rms) 1,176.7 +3.4 +28.9 +55.4
+Sweden (OMXS30) 
+1,530.9 +0.2 +5.8 -2.0
+Switzerland (SMI) 8,354.8 +1.2 -5.3 -7.4
+Turkey (BIST) 
+76,143.6 -1.8 +6.2 -13.3
+Aust
+ralia (All Ord.) 5,788.2 +1.0 +8.3 +8.4
+Hong Kong (Hang Seng) 22,134.5 +1.7 +1.0 +0.9
+India (BSE) 26,633.1 +1.6 +2.0 -0.9
+Indonesia (JSX) 5,301.2 +1.8 +15.4 +18.4
+Malays
+ia (KLSE) 
+1,647.5 +1.1 -2.7 -7.1
+Pak
+istan (KSE) 
+48,705.0 +2.7 +48.4 +48.3
+Singapo
+re (STI) 
+2,921.3 +0.8 +1.3 -0.2
+South Ko
+rea (KOSPI) 
+2,045.6 +1.0 +4.3 +1.4
+Taiwan (TWI)  
+9,287.0 +0.9 +11.4 +13.5
+Thailand (SET) 1,563.6 +2.6 +21.4 +22.0
+Argent
+ina (MERV) 18,143.1 +9.9 +55.4 +24.9
+Brazil (BVSP) 
+61,589.1 +3.0 +42.1 +74.4
+Chile (IGPA) 
+20,809.5 +1.4 +14.6 +20.9
+Colombia (IGBC) 10,288.4 +1.6 +20.4 +28.9
+Mex
+ico (IPC) 46,587.7 +2.2 +8.4 -12.5
+Venezuela (IBC) 
+31,839.2 +4.7 +118 na
+Egypt (EGX 30) 12,608.4 +2.8 +80.0 -23.3
+Israel (TA-100) 
+1,287.8 -0.1 -2.1 -1.1
+Saudi Arabia (Tadawul) 
+7,198.1 -0.6 +4.1 +4.2
+South Af
+rica (JSE AS) 50,760.2 +0.9 +0.1 +14.1
+Indicators
+for more countries and additional
+series, go to: 
+Economist.com/indicators
+GDP fo
+recastsSource: Economist Intelligence Unit
+2017, % change on a year earlier
+Worst
+Best0246810
+Myanmar
+Ivory Coast
+Bhutan
+
+LaosCambodiaTanzania
+GhanaIndiaDjiboutiVietnam
+64202+–Trinidad & Tobago
+EcuadorAzerbaijanChadSyria
+Timor-Leste
+Puerto Rico
+Equatorial Guinea
+
+Libya
+Venezuela
+66The EconomistJanuary7th2017
+WHENin 1965 Vera Rubin arrived for a
+four-daystinta
+t“the mo
+nastery”, asthe PalomarObservatory, home ofthe
+
+world’slargesttelesc
+ope, wasdubbed,
+there were no women’slavatories. No fe-
+
+male astronomerhad everworked there
+
+before. Howcould they, when itwould
+
+mean walking
+home late atnight? 
+Ithad been the same thinkingathigh
+school. When she told herrevered science
+
+teacherofherscholar
+ship to Vassarhe
+said: “Youshould do 
+OK 
+aslongasyoustay
+awayfrom science.” She wasthe onlyas-
+
+tronomymajorto gr
+aduate there in her
+year. When in 1947 she requested a gradu-
+
+ate-school catalogue from Princeton, the
+
+dean told hernotto bother: women were
+
+notaccepted forphysicsand astronomy.
+
+George Gamow,
+ laterherdocto
+ral adviser,
+said she could notattend hislecture atthe
+
+JohnsHopkinsApplied PhysicsLab “be-
+
+cause wiveswere notallowed”.
+She wasindeed a wife. She married—
+aged 19—RobertRubin, a physicistwhom
+
+she followed to Cornell, sacriﬁcingher
+
+place atHarvard. He was, she said, her
+
+greatestally. Later, when she attended
+
+nightclassesatGeorgetown University, he
+
+drove herthere, eatinghisdinnerin the car
+
+until he could drive herhome, while her
+
+parentsbaby-sat. Still, she found raising
+
+fourchildren “almostoverwhelming”.
+When she halted heracademiccareer—the
+worstsixmonthsofherlife—she wept ev-
+
+erytime the 
+Astrophysical Journal 
+arrived
+in the house. But, workingp
+art-time, she
+made sure to be home when the kidsre-
+
+turned from school. She neverinspected
+
+theirrooms, she said, and theygrewup
+
+ﬁne, all with 
+PhDsin science ormaths. 
+Hermaster’sthesiswas,
+ herCornell su-
+pervisorsaid, worthyofbeingpresented
+
+to the American Astronomical Society. But
+
+she wasaboutto give
+ birth, so, 
+he suggest-ed, he would presentit—butin hisname. 
+She refused. Herparentsdrove up from
+Washington and tooktheir22-year-old
+
+daughter, nursing
+hernewborn, on a gruel-
+lingsnowytrip from upstate NewYork to
+
+Philadelphia . She addressed the roomful
+
+ofstrangersforten minutesaboutgalaxy
+
+rotation, soaked up some patronisingcriti-
+
+cism and a smidgen ofpraise—and left.
+Though rowswere unpleasant, defeat
+wasworse. “Protesteveryall-male meet-
+
+ing, everyall-male department, every all-
+
+male platform
+,” she advised. 
+AtPalomar,
+she made a ladies’ room bystickinga
+
+handmade skirtsign on a men’sroom door
+
+(she returned a year
+later: itwasgone).
+She’d neveranticipated such problems.
+Herfatherencourag
+ed herc
+hildhood habitofwatchingmeteorshowers, leaningout
+
+ofherbedroom windowand memorising
+theirgeometryin orderto lookthem up lat-
+er. He even helped hermake herﬁrst tele-
+
+scope, from a cardboard tube; she had al-
+
+readymade herown kaleidoscope. She
+
+hadn’tevermetan astronomer, butit never
+
+occurred to herthatshe couldn’tbe one.
+Butherearlyresearch waslargely ig-
+nored. In otherwork, male astronomers el-
+
+bowed her
+aside. Fed up, she looked for a
+problem “thatpeople would be interested
+
+in, butnotso interested in thatanyone
+
+would botherme before I wasdone.”
+She found it. In the 1930sFritzZwicky,
+an idiosyncraticSwissastrophysicist, had
+
+suggested that
+the brightlyshiningstars
+represented onlya partofthe cosmic
+
+whole. There 
+mustalso 
+be “dark
+matter”,unseen butrevealed indirectlybythe ef-
+
+fectsofitsgravity. Thatconjecture lan-
+
+guished on the marginsuntil MsRubin,
+
+workingwith hercolleague KentFord, ex-
+
+amined the puzzle ofgalac
+ticrotation. Spi-
+ral galaxiessuch asAndromeda, she
+
+proved, were spinningso fastthattheir
+
+outerstarsshould be ﬂyingawayinto the
+
+never-never. Theyweren’t. So eitherEin-
+
+stein waswrongaboutgravity, orgravita-
+
+tional pull from vastamountsofsome-
+
+thinginv
+isible—dark
+matter—washolding
+the starstogether.
+The discoveryreshaped cosmology,
+though initiallyhercolleaguesembraced it
+
+unenthusiastically. Astronomershad
+thoughttheywere studyingthe whole uni-
+
+verse, notjusta sm
+all luminousf
+raction of
+it. Newtheoriesdeveloped on whatthe
+
+mattermightbe—butitsfugitive particles
+
+escaped all directdetection. 
+Some are worried bythe absence. Ms
+Rubin wasunbothered. Astronomy, she
+
+reckoned, was“outofkindergarten, but
+
+onlyin aboutthe third grade”. Manyofthe
+
+universe’sdeep mysteriesremained to be
+
+discovered byeye and brain, with 
+all thejoythatinvolved. 
+Shining a light
+There were otherscien
+tiﬁcfeats,
+ too: in1992 she discovered
+NGC 
+4550, a galaxyin
+which halfthe starsorbitin one direction,
+
+mingled with halfthathead the other way.
+
+She won medalsaplenty: the Gold Medal
+
+ofBritain’sRoyal Astronomical Society
+
+(lastawar
+ded to a woman in 1828) and
+America’sNational Medal ofScience.
+
+Princeton, which had once shunned her,
+
+wasamongthe manyuniversitiesto award
+
+heran honorarydo
+ctorate. 
+She gave nota-
+ble commencementspeeches.
+The plauditswere pleasant, butnum-
+bersmattered more: the greatestcompli-
+
+mentwould be ifastronomersyearshence
+
+still used herdata, she i
+nsisted. She wasa
+perennial favourite fora Nobel prize in
+
+physics—onlyeverawarded to two wom-
+
+en. Thatcall nevercame: like darkmatter,
+
+herfanslamented, she wasvitallyimpor-
+
+tant, buteasyto overlook. 
+7Dark star
+Vera Rubin, an American 
+astronomerwho 
+established the existence ofdarkmatter,
+died on December25th, aged 88
+Obituary
+Vera Rubin
+Is 20% enough for big questions? 
+  
+ 
+ 
+ 
+curiosity.merckgroup.com
+SMALLNUMBERS
+  HAVE BIG
+ IMPACTSFind more stories like Kojo™s on
+aflatoun.org
+Turning dependence into independence
+Kojo turned his life around with one idea: 
+renting out his bike and saving the money for 
+
+his education. Kojo™s business has quadrupled 
+
+since then. He now has four bikes and plans on 
+
+having bike shops all across Africa one day.
+If you need to get from
+A to B, think of me!ﬂ
+ﬁKojo
+, CEO of Kojo™s Bikes
+Aflatoun provides social and 
+financial education for Kojo and 
+
+millions of children worldwide.
+The EconomistJanuary7th2017
+3Daily analysis and opinion to
+supplement the print edition, plus
+
+audio and video, and a daily chart
+Economist.comE-mail:newsletters and
+mobile editionEconomist.com/emailPrint edition: 
+available online by
+7pm London time each Thursday
+Economist.com/print
+Audio edition:
+available online 
+to download each Friday
+Economist.com/audioeditionThe Economist 
+onlineVolume422 Number9022
+Published since September 1843
+to take part in "a severe contest between 
+
+intelligence, which presses forward, and 
+
+an unworthy, timid ignorance obstructing 
+
+our progress."
+Editor
+Atlanta, Beijing, Berlin, Brussels, Cairo, Chicago,
+
+Lima, Mexico City, Moscow, Mumbai, Nairobi, 
+
+New Delhi, New York, Paris, San Francisco, 
+
+São Paulo, Seoul, Shanghai, Singapore, Tokyo,
+
+Washington DC
+Contents continues overleaf
+Contents
+1Theresa Maybe 
+It is still
+unclear what Britain’s new
+
+prime minister stands
+
+for—perhaps even to her:
+
+leader, page 10. The making
+
+and meaning of a prime
+
+minister, pages 14-16. The
+
+sudden departure of Britain’s
+
+man in Brussels lays bare the
+
+lack of Brexit plans, page 41.
+
+The “WTO option” for Britain is
+
+far from straightforward: Free
+
+exchange, page 55. The ﬁrst
+
+crop of Brexit books includes
+
+entries rich in detail and
+
+analysis, page 59
+On the cover
+Voice technology is making
+computers less daunting and
+
+more accessible: leader, page
+
+7. Computers have got much
+
+better at translation, voice
+
+recognition and speech
+
+synthesis. But they still
+
+don’t understand what
+
+language means: Technology
+
+Quarterly, after page 34
+6The world this week
+Leaders
+7Voice technology
+Now we’re talking
+8Japan’s economy
+The second divine wind8Trumponomics
+Men of steel, houses of
+
+cards9Fixing failed states
+First peace, then law
+10British politics
+Theresa Maybe
+Letters
+11On China, management,
+elections, nuclear power,
+
+Japan, the elderly,
+
+economistsBrieﬁng
+14Theresa May
+Steering the course
+Asia17Ageing in Japan
+Cities vie for the young
+18Japan’s elderly workers
+Keep on toiling
+18Alcohol in Indonesia
+Calls for a ban
+19New Zealand’s national
+parks
+
+Lord of the ker-chings
+20Banyan
+Selling Malaysians down
+
+the river
+China21Selection year
+Ar
+22Literature
+Meet China’s Shakespeare
+United States
+23Inequality
+Fat tails
+24Congressional ethics
+Old bog, new tricks
+25Recrs
+The force is weak
+25Gun laws
+Still standing
+26Charleston
+Cobblestones and bones
+26Markets for tickets
+Battling bots27Lexington
+Learning to love Trumpism
+The Americas
+28Brazil’s prisons
+Horror in the jungle
+29Bolivia
+Run, Evo, run
+Middle East and Africa
+30South Africa’s schools
+Bottom of the class
+31Astronomers v sheep
+farmers in South Africa
+
+Stars and baas
+31Zimbabwe’s sex trade
+Less stigma, more
+
+competition
+32Iraq’s long war
+Agoody and Abadi
+33America and Israel
+Unsettled by Trump
+34Israel’s divisions
+Convicting a soldierTechnology Quarterly:
+
+Language
+Finding a voice
+
+After page 34
+Europe
+36Terror in Turkey
+From celebration to
+
+carnage
+37Obama sanctions Russia
+Putin gets the last laugh
+37Bavaria’s angry drivers
+Taking their toll
+38Spain and Catalonia
+Catalexit?
+39Charlemagne
+Martin Luther’s Germany
+Turkey torn apart
+The murderous Islamic State
+attack on a nightclub widens
+
+the secular-religious divide,
+
+page 36
+Failed states
+How to save
+nations from collapse: leader,
+
+page 9. The lessons from
+
+Afghanistan and South Sudan,
+
+page 43. Why South Africa has
+
+one of the world’s worst
+
+education systems, page 30
+©2017 The Economist Newspaper Limited. All rights reserved. Neither this publication nor any part of it may be reproduced, stor
+ed in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording or
+otherwise, without the prior permission of The Economist Newspaper Limited. Published every week, except for a year-end double 
+issue, by The Economist Newspaper Limited. 
+The Economist 
+is a registered trademark of The Economist Newspaper Limited.
+Publisher: The Economist. Printed by Times Printers (in Singapore).
+M.C.I. (P) No.030/09/2016 PPS 677/11/2012(022861)
+PEFC certiﬁed
+This copy of The Economist
+is printed on paper sourced
+
+from sustainably managed
+
+forests, recycled and controlled
+
+sources certiﬁed by PEFC
+
+www.pefc.org
+PEFC/01-31-162
+Principal commer
+25 St James’s Street, London 
+sw1a 1hg
+Tel: +44 20 7830 7000
+Rue de l’Athénée 32
+1206 Geneva, Switzerland
+Tel: +4122 566 2470 
+750 3rd Avenue, 5th Floor, New York, NY 10017 
+Tel: +1212 5410500 
+1301Cityplaza Four,
+12 Taikoo Wan Road, Taikoo Shing, Hong Kong
+Tel: +852 2585 3888
+Other commer
+Chicago, Dubai, Frankfurt, Los Angeles,
+
+Paris, San Francisco and Singapore 
+4Contents
+The EconomistJanuary7th2017
+Subscription for 1 year (51 issues)Print onlyAustralia A$425China CNY 2,
+300Hong Kong & Macau HK$2,
+300India INR 7,500
+
+Japan Yen 41,000
+
+Korea KRW 344,000Malaysia RM 780
+
+New Zealand NZ$460
+
+Singapore & Brunei S$425
+
+Taiwan NT$8,625
+Thailand US$288
+Other countries Contact us as above
+Subscription serviceFor our full range of subscription offers, including digital only or print and digital 
+combined visitEconomist.com/offersYou can subscribe or renew your subscription 
+by mail, telephone or fax at the details below:Telephone: +65 6534 5166 Facsimile: +65 6534 5066Web: Economist.com/offersE-mail: Asia@subscriptions.economist.comPost: The Economist  Subscription Centre,
+ Tanjong Pagar Post Office PO Box 671
+
+ Singapore 910817 
+Ageing Japan
+An olderpopulation is changing
+suburbia,page 17. Japan’s
+
+workforce is ageing, too, page
+18. Toshiba, an enfeebled
+Japanese giant, faces a
+
+multi-billion-dollar write-
+
+down, page 47. The strong
+
+dollar has given Abenomics
+
+another chance. Now
+
+corporate Japan must do its
+
+bit: leader, page 8
+Nestlé’s health kick
+As rivals
+encroach and consumers fret
+
+about their waistlines, the
+incoming boss of Switzerland’s
+food multinational must ﬁnd a
+
+new formula for growth, 
+
+page 46
+The third regime
+First there
+was Bretton Woods; then
+
+capital 
+controls ended andregulations
+were slashed; now
+comes the third post-war
+
+ﬁnancial regime. But what
+
+does it entail? Buttonwood,
+
+page 52
+China’s Shakespeare
+have been using the 400th
+
+anniversary of Shakespeare’s
+
+death to promote a Chinese
+
+bard who they claim stands
+
+shoulder to shoulder with the
+
+Swan of Avon, page 22
+Britain
+40Crime
+How low can it go?41Brexit preparations
+Rogers and out
+41Foreign aid
+Astingy new year
+42Bagehot
+Pierogi and integration
+International
+43Fixing fragile nations
+Conquering chaos
+Business46Nestlé
+Alife less sweet
+47Toshiba
+Losing count48Donald Trump and Ford
+Wheel spin49Schumpeter
+The three Rs of banking
+Finance and economics
+50Indian economics
+Many rupee returns
+51Impact investing
+Coming of age
+51Bank capital
+Polishing the ﬂoor
+52Buttonwood
+The new global regime
+53Sub-national currencies
+53Futures and options
+Out of the pits
+54Anthony Atkinson
+For poorer, for richer
+54Insuring talent
+Death Star
+55Free exchange
+Brexit and the WTO option
+Science and technology
+56Medicine and computing
+The shoulders of gAInts
+57Olfactory medicine
+er
+58Atmospheric physics
+The storm before the calm
+58Palaeontology
+Cracking a puzzle
+Books and arts
+59Britain and the EU
+Why Brexit won
+60Johnson
+Word of the year
+61Chinese economics
+Western takeaway
+61Fiction
+Crazy city
+62Car-park architecture
+Pile ‘em in style
+64Economic and ﬁnancial
+indicators
+Statistics on 42 economies,
+plus a closer look at GDP
+forecasts
+Obituary
+66Vera Rubin
+Astronomy’s dark star
+10Leaders
+The EconomistJanuary7th2017
+1WITHINhoursofthe Brexit
+referend
+um lastsummerDavid Cameron had resigned,
+
+and within three weeksTheresa
+
+Mayhad succeeded him as
+
+prime minister. 
+The speed of her
+ascentto power, on July13th
+
+2016, withouta general election
+ora full-blown Toryleadership contest, meantthatMayism
+
+wasneverspeltoutin anymanifesto orendorsed bythe elec-
+
+torate. Yet
+the newprime min
+istersoon made clearthe scale of
+herambitionsforBritain. Notonlywould she make a success
+
+ofBrexit, she would also setin motion a sea-change in social
+
+mobilityto corr
+ectthe “b
+urningi
+njustices” faced bythe down-
+trodden, and reshape “the forcesofliberalism and globalisa-
+
+tion which have held sway...acrossthe Western world.” Heral-
+
+liestalked ofan epochal moment, comparable to Margaret
+
+Thatc
+her’sbreakwith the p
+astin 1979
+. The feeble condition of
+the Labouropposi
+tion gave MrsMaycontrol ofa one-party
+state. Asforher
+mandate, s
+he cited the refe
+rendum: a “quiet
+revolution” bypeople “notprepared to be ignored anymore”.
+Yetafterhalfa yeare there isstrikingly little to show
+forthisMayrevolution (see 
+pages14-16). The strategyforBrexit,
+which isdue to be triggered in lessthan three months, remains
+
+undeﬁned in anybutthe vaguestterms, and seemsincreasing-
+
+lychaotic. Athome, the grand talkabouttransforming society
+
+and tamingcapitalism hasyielded onlytimid proposals, many
+
+ofwhich have alreadybeen scaled down orwithdrawn. The
+
+growingsusp
+icion ist
+hatthe 
+Sphinx-like p
+rime minister isguarded aboutherplans
+chieﬂybecause she 
+isstill 
+strugglingto drawthem up.
+The emperor’s newtrousers
+MrsMaybuilta reputation for
+dogged c
+ompetence d
+uring sixyearsatthe Home Oe, a trickybeatthathaswrecked many
+
+political careers. She skilfullysurvived the Brexitreferendum
+
+despite backingthe losingside.
+ In the abbreviat
+ed Conserva-
+tive leadership race she stood outasthe onlygrown-up; few
+
+Toriesregretplumpingforheroverthe unprepared and unseri-
+
+ousothercontenders. In negotiatingBrexit, the hardest taskfor
+
+anyprime min
+isters
+ince the second world war, she faces a
+powerful drain on political capital and governmental capacity.
+
+Halfthe countryisagainstthe idea and the restmay souronce
+
+itsdrawbacksmaterialise. Most
+ofthe civil serv
+ants imple-mentingBrexitthinkita mistake. IfBritain’snextfewyearswill
+
+be aboutavoidingtraps, then the warytenacityofMrs May
+
+could be justwhat
+the countryneeds.
+Yetcaution hasstarted to looklike indecision. Her mostse-
+nior
+shasjustresi
+gned, sayin
+gthat 
+the gov-
+ernmentdoesnothave a clearBrexitplan (see 
+page 41). After
+sixmonthsitishard to name a single signature policy, and easy
+
+to cite 
+U-turns. Some are welcome: a sillypromise to put work-
+erson companyboards, forinstance, wasabandoned; a dread-
+
+ful plan to make ﬁrmslisttheir
+foreign empl
+oyeeslast
+ed lessthan a week; and hintsatcurb
+ingthe Bankof
+England’sinde-
+pendence were quietlyforgotten. Selective “grammar”
+schoolswill be resurrected—butonlyon a small scale, and per-
+hapsnotatall, given howmanyTory
+MPsoppose the idea.
+Otherreversalssmackofdithering. The construction of a new
+
+nuclearplant
+atHinkleyPoin
+twasputin 
+doubt, then given the
+go-ahead; a newrunwayatHeathrowairportwasall but
+
+agreed on, then deferred until a parliamentaryvote next year.
+
+“Just-about-mana
+ging” householdswere the 
+prime minister’slodestarfora weekorso, then 
+dropped. So were
+ sugges
+tionsthatBritain would seeka 
+transi
+tional deal with the 
+EU 
+after
+Brexit—until theywere recircu
+lated a fewweekslater when
+MrsMayapparentlychanged hermind once again.
+The cause ofthisdisarraycould be thatMayism itself is
+muddled. While vowingto make Britain “the strongestglobal
+
+advocate forfree markets”, 
+the prime ministerhasal
+so talked
+ofrevivinga “pro
+perindus
+trial strategy”. Th
+isisnotabout
+“proppingup 
+failingi
+ndustriesorpickingwinners”, she in-
+sists. Yetu
+nspeciﬁed “supportand 
+assurances” to Nissan to
+persuade the carmakerto stayin Sunderland afterBrexit
+
+amountto more orlesst
+hat. Herent
+husiasm fortra
+de oft
+en sitsuncomfort
+ablywith herscepticism 
+ofmigration. 
+Consi
+der therecenttrip to India, where herunwillingnessto give wayon
+
+immigration blocked progresson a free-trade agreement.
+Acitizen ofnowhere
+There isone lesson in the overdone comparison ofMrs Mayto
+
+Thatcher
+. The woman who reallydid
+ transform Britain had a
+shambolicﬁrst
+term; priv
+atisation and union ref
+orm, withwhich she isnowassociated, did notreallygetgoing until after
+1983. Angela Merkel also made a shakystartasGermany’s
+chancellor. MrsMaycould yetﬁnd herfeet—and given the state
+
+ofLabour, she will have time to do so, ifBrexitdoes notpro-
+
+vide herown partywith a reason to ousther.
+YetMrsMaycould turn outto resemble another, less obvi-
+ouspredecessor: Gordon Brown. He, too, wasthin-skinned.
+
+Like her, he moved into DowningStreetwithoutan election, in
+
+2007. He also started with a fearsome reputation and big
+
+promises. And when itbecame clearhe had little idea whatto
+
+do with the job he had so 
+coveted, he ﬂopped. The ﬁnancial
+crisisparalysed hisgov
+ernmentbecause of
+hisdesire 
+to micro-
+manage everydecision. 
+There ismore than a little ofthisin MrsMay. One person
+can justabout
+e sing
+le-handed. But beingprime ministerreq
+uiresdelegation—especi
+allywhen Brexit
+loomsso large. Care forthe elderlyisfraying. The National
+
+Health Service isrunningoutofmoney. Ahousingshortage is
+
+worsening. Scotland and Northern Ireland are raisingawk-
+
+ward constitutional questions. Aslongaseveryproposal has
+
+to be pored overbythe prime min
+ister, ra
+dical decisions ofthe
+sortneeded to solve these problemswill notbe taken. To geta
+
+grip on Britain, MrsMay
+mustle
+arn to loosen hers.
+Forthis, s
+he mustdecide what
+the grand promisesof her
+governmentactuallyamountto. The need foreverypolicy to
+
+be agonised overin DowningStreet, the secrecyoverBrexit
+
+and the silence on the government’sbroaderplansforBritain
+
+all pointto the same problem: Theresa Maybe doesnot really
+
+knowwhatshe wants. 
+7British politics
+Theresa Maybe
+Aftersix
+months, whatBritain’s newprime min
+isterstan
+ds foris still unclear—pe
+rhaps even to her
+13The Economist January7th2017
+The OpportunityWe are currently looking for a Director, Research and Evidence to join us in our London ofÞ
+ ce.  This is a new senior Leadership role in which you will provide global leadership to ensure a step 
+
+change in the rigour, relevance, and strategic direction of our global evidence base, so that we 
+
+can fully leverage our $2bn international programming portfolio across 120 countries; ensure 
+
+our ambitions for children, and become a knowledge leader on what works for children.
+In order to be successful you will have:
+¥ Extensive experience in applied implementation of data and evaluation systems to 
+improve frontline practice in the development/humanitarian context.
+¥ Extensive skills and experience in designing, managing and communicating quantitative 
+and mixed method research and evaluation, using rigorous designs
+¥ Demonstrable experience in the areas of research and evidence strategy development 
+and implementation ¥ Proven leadership abilities, with the ability to mobilise and motivate individuals outside 
+of your reporting line in a highly matrixed and federated environment
+On a personal level you will be an inclusive and conÞ dent leader, with the gravitas to inspire 
+and inß uence a wide range of stakeholders, and a belief in the mission and values of Save the 
+Children. 
+This role offers a competitive salary, in the context of the sector, and a company pension 
+scheme.  The organisationItÕs an exciting time at Save the Children as we start the implementation of our new 15-year 
+
+global strategy Ð Ambition for Children 2030 Ð which focuses on achieving three Breakthroughs: 
+
+no child dies from preventable causes before their Þ
+ fth birthday, all children learn from a quality 
+basic education, and violence against children is no longer tolerated.  
+Save the Children is a federated Membership organisation with 29 Members who are based 
+across the globe and provide Save the Children International with the funds to carry out our 
+
+international programming activities.  
+Application informationPlease apply using a cover letter and CV explaining why you would be suited to this role, and do 
+
+also include your current and expected salary.  Please send this all as a single document. A copy 
+
+of the full role proÞ
+ le can be found at www.savethechildren.net/jobs
+We need to keep children safe, so our selection process reß
+ ects our commitment to the 
+protection of children from abuse.
+Executive Focus
+14The EconomistJanuary7th2017
+1ASAstudentatOxford, Theresa May
+looked like a typic
+al ambitiousyoung
+Tory. The 
+daughterofa vicar
+, she had beensgenvelopesforherlocal Conserva-
+
+tive association foryears. She wasa mem-
+
+berofthe Oxford UniversityConservative
+
+Association; itwasatone ofitsdiscos that
+
+BenazirBhutto
+, laterthe prime minister ofPakistan, introduced herto the man she
+
+would marry. She also joined the Oxford
+
+Union, a debatingsocietywhere politi-
+
+ciansin embryo learn to speechify, ingrati-
+
+ate themselvesand stab each otherin the
+
+back. She told a tutorial partnerthat she
+
+wanted to be 
+prime minister. 
+Yetvariousthingsdistinguished her
+from the c
+lassicToryha
+ck. Forone, she did
+notread philosophy, politicsand econom-
+
+ics(
+PPE
+), the course designed to train future
+elites. She read geography. ForDavid Wil-
+
+letts, who wasmin
+isterfor
+universities in
+the 2010-15 coalition governmentin which
+
+MrsMaywashome secretary, thisdistinc-
+
+tion ismore than incidental. 
+He notesthat
+PPE
+ists(like Da
+vid Camer-
+on, MrsMay’spredecessor, and indeed
+
+Lord Willetts) tend to concentrate on Brit-
+
+ain’ssectoral strengths—itsboomingser-
+
+vice i
+ndustries, itsgrea
+tuniversities, the
+City—whose successmighttrickle down to
+
+poorerareas, orinto whose orbitresidents
+
+ofpoorerareasmig
+htbe persuaded to
+move. BycontrastMrsMaycaresabout
+places, theirpreservation and people’sat-
+
+tachmentto them, an attitude which
+
+makesherparticularlyconcerned with
+
+down-and-outareasthatneed help pick-
+
+ingthemselvesup. 
+In thisshe iswell-suited to her times.
+Britain’svote forBre
+xit(the res
+ponsibilityforwhose realisation she inherited from
+
+MrCameron) waspartlya cryofprotest by
+
+partsofthe countrythatfeltleftbehind, ex-
+
+cluded from itssuccesses, oroverwhelmed
+
+byrapid change. Itshowed howmuch peo-
+
+ple’ssense ofbelongingin the place where
+
+theylive mattered to them, and the value
+
+theyplaced on stabilityand order. The
+
+prime minister’stalkofrevivingmanufac-
+turing, reducingimmigration and tackling
+
+corporate excessplayswell to such feel-
+
+ings. The publiclikesherconsiderably bet-
+
+terthan itdid MrCameron two yearsinto
+
+the previousparliament, and much better
+
+than the lamentablyled LabourParty(see
+
+charton nextpage). In a Y
+ouGovpoll pub-
+lished on January3rd, everyregion, every
+
+social classand ev
+eryage group said she
+would be a be
+tterprime 
+ministerth
+an Je-remyCorbyn, the Labourleader. 
+The outlook, education and character
+ofa leaderalwaysmatter; butwith Mrs
+
+Maytheymatter
+more than 
+usual. Mostprime ministerstrav
+el on tracksoftradi-
+tion, convention and precedent. The legal,
+political, economicand diplomaticcom-
+
+plexitiesofBrexithave putpaid to that. A
+
+costlyand possiblybitterdivorce must be
+
+negotiated. Trade dealswith the remain-
+
+derofthe 
+EU, and possibly
+the restof the
+world, must
+be struck. An
+ewimmigration
+regime 
+mustbe establ
+ished, economic
+shockscontained, partner
+sreassur
+ed, Scot-
+land held in the union, peace in Northern
+
+Ireland preserved and painful fractures in
+
+British societyclosed. There are no prece-
+
+dents. ItisforMrsMayto create her own; to
+
+make choicesthatdwarfmostofthose that
+
+confronted herpredecessors.
+Aprime min
+isterwho had 
+won a gen-
+eral election, oreven a contested party
+
+leadership campaign, would have had to
+
+give some sense ofhowshe would make
+
+such choices. ButMrsMayhasdone nei-
+
+therofthose things. Thusforan idea of
+
+howshe readsthe layofthe unknown
+
+land ahead, and howadeptshe will prove
+
+atnavigatingit, itpaysto lookclosely at
+
+who she isand where she came from. 
+Onward Christian soldiers
+MrsMaywasborn in 1956 to the Reverend
+
+HubertBrasierand hiswife Zaidee. When
+
+she wasa girl herfatherbecame vicar ofSt
+
+Kenelm’sin Church E
+nstone, 
+a cinemati-callyidyllic
+huddle ofgol
+den stone housesamid the drystone wallsand rollingﬁelds
+
+ofthe Cotswo
+lds. Hereccle
+siastical up-bringinghasprompted comparisonsto
+
+Angela Merkel (whose fatherwasa Luther-
+
+an pasto
+rin East
+Germany) and Gordon
+Brown, TonyBlair’ssuccessorasLabour
+
+prime minister(whose 
+fatherwasa Presby-
+terian ministerin Fife, nearEdinburgh). All
+three grewup in householdsdominated 
+Steeringthe course
+CHURCH ENSTONE AND MAIDENHEADThe making an
+d meaning of
+a prime ministerBrieﬁng
+Theresa May
